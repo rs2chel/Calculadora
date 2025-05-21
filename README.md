@@ -83,5 +83,3 @@ O teclado virtual só aparece quando o usuário ativa a checkbox correspondente.
 Este projeto é de código aberto, sinta-se à vontade para usar, modificar ou contribuir.
 
 ---
-
-Esse `README.md` oferece uma visão detalhada e clara de como a calculadora funciona, descrevendo as funcionalidades, as funções do código e como o usuário pode interagir com a aplicação. Ele também fornece orientações para os desenvolvedores ou usuários que quiserem usar ou modificar o projeto.
